@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Körperfettrechner</string>
+    <string name="how"><u>Rechenverfahren kennen</u></string>
+    <string name="height">Höhe</string>
+    <string name="Weight">Gewicht</string>
+    <string name="Waist">Taille</string>
+    <string name="Neck">Nacken</string>
+    <string name="Hip">Hüfte</string>
+    <string name="Gender">Geschlecht</string>
+    <string name="Calculate">Berechnung</string>
+    <string name="about">
+\n<b>Methode der US Navy:</b>\n
+
+Es gibt viele spezifische Techniken, die zur Messung des Körperfetts verwendet werden. Der obige Rechner verwendet eine Methode mit Gleichungen, die 1984 am Naval Health Research Center von Hodgdon und Beckett entwickelt wurden.\n\n
+<b>Formel für den Körperfettanteil für Männer:</b>\n
+
+
+SI, metrische Einheiten:\n
+BFP =
+495/(1.0324 - 0.19077 × log10 (Taille-Nacken) + 0.15456 × log10 (Höhe))
+        - 450\n\n<b>Formel für den Körperfettanteil für Frauen:</b>\n
+
+SI, metrische Einheiten:\n
+BFP =
+495/(1.29579 - 0.35004 × log10 (Taille + Hüfte-Nacken) + 0.22100 × log10 (Höhe))
+- 450
+
+    </string>
+    <string name="your">Ihr Körperfettanteil beträgt:</string>
+    <string name="lean">MAGER</string>
+
+
+    <string name="title">KÖRPERFETT % DIAGRAMM</string>
+    <string name="m">MÄNNER</string>
+    <string name="f">FRAUEN</string>
+    <string name="male">Männlich</string>
+    <string name="female">Weiblich</string>
+    <string name="in">Zoll</string>
+    <string name="ft">ft</string>
+    <string name="kg">kg</string>
+    <string name="lbs">lb</string>
+    <string name="cm">cm</string>
+    <string name="toast">Bitte geben Sie Ihre Größe, Ihr Gewicht, Ihre Taillen-, Hals- und Hüftmaße ein.</string>
+    <string name="l1">GERINGES KÖRPERFETTRISIKO</string>
+    <string name="l2">ULTRA SCHLANK</string>
+    <string name="l3">MAGER</string>
+    <string name="l4">Mäßig fett</string>
+    <string name="l5">ÜBERSCHÜSSIGES FETT</string>
+    <string name="l6">HOHE KÖRPERFETTRISIKO</string>
+    <string name="m1">5%</string>
+    <string name="m2">8%</string>
+    <string name="m3">12%</string>
+    <string name="m4">20%</string>
+    <string name="m5">30%</string>
+    <string name="f1">15%</string>
+    <string name="f2">18%</string>
+    <string name="f3">22%</string>
+    <string name="f4">30%</string>
+    <string name="f5">40%</string>
+    <string name="d1">Fragen Sie Ihren Arzt, wie Sie Ihr Körperfett sicher erhöhen können.</string>
+    <string name="d2">Dies ist der Körperfettanteil, der häufig bei den meisten Spitzensportlern zu finden ist.</string>
+    <string name="d3">Dieser Körperfettanteil ist niedriger als bei den meisten Menschen und hervorragend für die Gesundheit.</string>
+    <string name="d4">Dieser Körperfettanteil ist im Allgemeinen für eine gute Gesundheit akzeptabel.</string>
+    <string name="d5">Dieser Körperfettanteil weist auf eine übermäßige Ansammlung von Fett hin.</string>
+    <string name="d6">Fragen Sie Ihren Arzt, wie Sie Ihr Körperfett sicher reduzieren können.</string>
+
+
+</resources>
